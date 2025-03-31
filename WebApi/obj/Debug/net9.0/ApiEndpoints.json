@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "WebApi.Controllers.AdminModulesController",
+    "Method": "GetAllUserForAdmin",
+    "RelativePath": "api/AdminModules/Kullanicilar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "UdemyAuthServer.API.Controllers.AuthController",
     "Method": "CreateToken",
     "RelativePath": "api/Auth/CreateToken",

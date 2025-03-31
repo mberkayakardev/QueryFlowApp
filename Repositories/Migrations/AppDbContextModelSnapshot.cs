@@ -84,13 +84,13 @@ namespace Repositories.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2025, 3, 31, 17, 50, 46, 785, DateTimeKind.Local).AddTicks(8262),
+                            CreatedDate = new DateTime(2025, 3, 31, 19, 59, 24, 644, DateTimeKind.Local).AddTicks(5820),
                             CreatedUserName = "Seed Data",
                             EmailConfirmed = true,
                             FalseEntryCount = 0,
                             IsActive = true,
                             IsBlocked = false,
-                            ModifiedDate = new DateTime(2025, 3, 31, 17, 50, 46, 785, DateTimeKind.Local).AddTicks(8265),
+                            ModifiedDate = new DateTime(2025, 3, 31, 19, 59, 24, 644, DateTimeKind.Local).AddTicks(5823),
                             ModifiedUserName = "Seed Data",
                             UserEmail = "berkayakar@gmail.com",
                             UserFullName = "Berkay AKAR",
@@ -146,10 +146,10 @@ namespace Repositories.Migrations
                             Id = 1,
                             ApplicationDescription = "MVC",
                             ApplicationName = "MVC",
-                            CreatedDate = new DateTime(2025, 3, 31, 14, 50, 46, 782, DateTimeKind.Utc).AddTicks(4758),
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 640, DateTimeKind.Utc).AddTicks(8938),
                             CreatedUserName = "SeedData",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 14, 50, 46, 782, DateTimeKind.Utc).AddTicks(5028),
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 640, DateTimeKind.Utc).AddTicks(9217),
                             ModifiedUserName = "SeedData"
                         });
                 });
@@ -253,10 +253,10 @@ namespace Repositories.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2025, 3, 31, 17, 50, 46, 785, DateTimeKind.Local).AddTicks(2473),
+                            CreatedDate = new DateTime(2025, 3, 31, 19, 59, 24, 644, DateTimeKind.Local).AddTicks(20),
                             CreatedUserName = "Seed Data",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 17, 50, 46, 785, DateTimeKind.Local).AddTicks(2476),
+                            ModifiedDate = new DateTime(2025, 3, 31, 19, 59, 24, 644, DateTimeKind.Local).AddTicks(23),
                             RoleDescription = "En yetkili kullanıcı",
                             RoleName = "Sistem Admin"
                         });
@@ -310,10 +310,10 @@ namespace Repositories.Migrations
                         {
                             Id = 1,
                             ClaimId = 1,
-                            CreatedDate = new DateTime(2025, 3, 31, 14, 50, 46, 784, DateTimeKind.Utc).AddTicks(9740),
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7290),
                             CreatedUserName = "SeedData",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 14, 50, 46, 784, DateTimeKind.Utc).AddTicks(9741),
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7291),
                             ModifiedUserName = "SeedData",
                             RoleId = 1
                         },
@@ -321,10 +321,10 @@ namespace Repositories.Migrations
                         {
                             Id = 2,
                             ClaimId = 2,
-                            CreatedDate = new DateTime(2025, 3, 31, 14, 50, 46, 785, DateTimeKind.Utc).AddTicks(35),
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7589),
                             CreatedUserName = "SeedData",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 14, 50, 46, 785, DateTimeKind.Utc).AddTicks(36),
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7589),
                             ModifiedUserName = "SeedData",
                             RoleId = 1
                         },
@@ -332,10 +332,43 @@ namespace Repositories.Migrations
                         {
                             Id = 3,
                             ClaimId = 3,
-                            CreatedDate = new DateTime(2025, 3, 31, 14, 50, 46, 785, DateTimeKind.Utc).AddTicks(38),
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7591),
                             CreatedUserName = "SeedData",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 14, 50, 46, 785, DateTimeKind.Utc).AddTicks(38),
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7592),
+                            ModifiedUserName = "SeedData",
+                            RoleId = 1
+                        },
+                        new
+                        {
+                            Id = 4,
+                            ClaimId = 4,
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7593),
+                            CreatedUserName = "SeedData",
+                            IsActive = true,
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7593),
+                            ModifiedUserName = "SeedData",
+                            RoleId = 1
+                        },
+                        new
+                        {
+                            Id = 5,
+                            ClaimId = 5,
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7595),
+                            CreatedUserName = "SeedData",
+                            IsActive = true,
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7595),
+                            ModifiedUserName = "SeedData",
+                            RoleId = 1
+                        },
+                        new
+                        {
+                            Id = 6,
+                            ClaimId = 6,
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7598),
+                            CreatedUserName = "SeedData",
+                            IsActive = true,
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 643, DateTimeKind.Utc).AddTicks(7599),
                             ModifiedUserName = "SeedData",
                             RoleId = 1
                         });
@@ -388,10 +421,10 @@ namespace Repositories.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2025, 3, 31, 17, 50, 46, 785, DateTimeKind.Local).AddTicks(5043),
+                            CreatedDate = new DateTime(2025, 3, 31, 19, 59, 24, 644, DateTimeKind.Local).AddTicks(2704),
                             CreatedUserName = "Seed Data",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 17, 50, 46, 785, DateTimeKind.Local).AddTicks(5046),
+                            ModifiedDate = new DateTime(2025, 3, 31, 19, 59, 24, 644, DateTimeKind.Local).AddTicks(2707),
                             RoleId = 1,
                             UserId = 1
                         });
@@ -444,10 +477,10 @@ namespace Repositories.Migrations
                             Id = 1,
                             ClaimDescription = "Admin Layout içerisindeki Dashboard ın görülebilmesi için eklenmiş olan bir cliam dir.",
                             ClaimName = "Admin.Dashboard",
-                            CreatedDate = new DateTime(2025, 3, 31, 14, 50, 46, 783, DateTimeKind.Utc).AddTicks(3025),
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8165),
                             CreatedUserName = "SeedData",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 14, 50, 46, 783, DateTimeKind.Utc).AddTicks(3026),
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8167),
                             ModifiedUserName = "SeedData"
                         },
                         new
@@ -455,10 +488,10 @@ namespace Repositories.Migrations
                             Id = 2,
                             ClaimDescription = "Anket / Sınavlar için base modülün claim kaydıdır. ",
                             ClaimName = "Admin.Survey.BaseMenu",
-                            CreatedDate = new DateTime(2025, 3, 31, 14, 50, 46, 783, DateTimeKind.Utc).AddTicks(3342),
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8588),
                             CreatedUserName = "SeedData",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 14, 50, 46, 783, DateTimeKind.Utc).AddTicks(3343),
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8588),
                             ModifiedUserName = "SeedData"
                         },
                         new
@@ -466,10 +499,43 @@ namespace Repositories.Migrations
                             Id = 3,
                             ClaimDescription = "Anket / Sınavlar için Kullanıcının Kendi kartlarını görüntüleyebileceği bir claimdir.  ",
                             ClaimName = "Admin.Survey.Index",
-                            CreatedDate = new DateTime(2025, 3, 31, 14, 50, 46, 783, DateTimeKind.Utc).AddTicks(3345),
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8590),
                             CreatedUserName = "SeedData",
                             IsActive = true,
-                            ModifiedDate = new DateTime(2025, 3, 31, 14, 50, 46, 783, DateTimeKind.Utc).AddTicks(3345),
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8590),
+                            ModifiedUserName = "SeedData"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            ClaimDescription = "Admin yönetimi - Roller - User - claim - menü yönetimi ve daha fazlası için sistem yönetici yetkisi",
+                            ClaimName = "Admin.AdminModule",
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8592),
+                            CreatedUserName = "SeedData",
+                            IsActive = true,
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8592),
+                            ModifiedUserName = "SeedData"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            ClaimDescription = "Admin yönetimi Kullanici yönetimi ",
+                            ClaimName = "Admin.AdminModule.Kullanicilar",
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8594),
+                            CreatedUserName = "SeedData",
+                            IsActive = true,
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8594),
+                            ModifiedUserName = "SeedData"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            ClaimDescription = "Admin yönetimi Kullanici Görüntüleme",
+                            ClaimName = "Admin.AdminModule.Kullanicilar.Index",
+                            CreatedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8598),
+                            CreatedUserName = "SeedData",
+                            IsActive = true,
+                            ModifiedDate = new DateTime(2025, 3, 31, 16, 59, 24, 641, DateTimeKind.Utc).AddTicks(8598),
                             ModifiedUserName = "SeedData"
                         });
                 });
@@ -939,12 +1005,12 @@ namespace Repositories.Migrations
                             Id = 1,
                             AppApplicationTypeId = 1,
                             AppClaimId = 2,
-                            CreatedDate = new DateTime(2025, 3, 31, 17, 50, 46, 783, DateTimeKind.Local).AddTicks(6866),
+                            CreatedDate = new DateTime(2025, 3, 31, 19, 59, 24, 642, DateTimeKind.Local).AddTicks(3633),
                             CreatedUserName = "Seed Data",
                             IsActive = true,
                             MenuDescription = "Sınav Base menü",
                             MenuName = "Sınav",
-                            ModifiedDate = new DateTime(2025, 3, 31, 17, 50, 46, 784, DateTimeKind.Local).AddTicks(4706),
+                            ModifiedDate = new DateTime(2025, 3, 31, 19, 59, 24, 643, DateTimeKind.Local).AddTicks(1440),
                             ActionName = "",
                             AreaName = "",
                             ControllerName = "",
@@ -958,12 +1024,12 @@ namespace Repositories.Migrations
                             Id = 2,
                             AppApplicationTypeId = 1,
                             AppClaimId = 3,
-                            CreatedDate = new DateTime(2025, 3, 31, 17, 50, 46, 784, DateTimeKind.Local).AddTicks(6392),
+                            CreatedDate = new DateTime(2025, 3, 31, 19, 59, 24, 643, DateTimeKind.Local).AddTicks(3015),
                             CreatedUserName = "Seed Data",
                             IsActive = true,
-                            MenuDescription = "Sınav Kartları",
-                            MenuName = "Sınav Kartlarını görüntüle",
-                            ModifiedDate = new DateTime(2025, 3, 31, 17, 50, 46, 784, DateTimeKind.Local).AddTicks(6395),
+                            MenuDescription = "Sınav Kartlarını Görüntüle ",
+                            MenuName = "Sınav Kartları",
+                            ModifiedDate = new DateTime(2025, 3, 31, 19, 59, 24, 643, DateTimeKind.Local).AddTicks(3017),
                             ActionName = "Index",
                             AreaName = "Admin",
                             ControllerName = "Survey",
@@ -972,6 +1038,45 @@ namespace Repositories.Migrations
                             MenuOrderNumber = 0,
                             Parameter = "",
                             RootId = 1
+                        },
+                        new
+                        {
+                            Id = 3,
+                            AppApplicationTypeId = 1,
+                            AppClaimId = 4,
+                            CreatedDate = new DateTime(2025, 3, 31, 19, 59, 24, 643, DateTimeKind.Local).AddTicks(3021),
+                            CreatedUserName = "Seed Data",
+                            IsActive = true,
+                            MenuDescription = "Admin Modül Root menü",
+                            MenuName = "Admin Modül",
+                            ModifiedDate = new DateTime(2025, 3, 31, 19, 59, 24, 643, DateTimeKind.Local).AddTicks(3022),
+                            ActionName = "",
+                            AreaName = "",
+                            ControllerName = "",
+                            IsNewTab = false,
+                            MenuIcon = "nav-icon fas fa-copy",
+                            MenuOrderNumber = 0,
+                            Parameter = ""
+                        },
+                        new
+                        {
+                            Id = 4,
+                            AppApplicationTypeId = 1,
+                            AppClaimId = 5,
+                            CreatedDate = new DateTime(2025, 3, 31, 19, 59, 24, 643, DateTimeKind.Local).AddTicks(3024),
+                            CreatedUserName = "Seed Data",
+                            IsActive = true,
+                            MenuDescription = "Kullanıcılar",
+                            MenuName = "Kullanıcı",
+                            ModifiedDate = new DateTime(2025, 3, 31, 19, 59, 24, 643, DateTimeKind.Local).AddTicks(3025),
+                            ActionName = "",
+                            AreaName = "",
+                            ControllerName = "",
+                            IsNewTab = false,
+                            MenuIcon = "nav-icon fas fa-copy",
+                            MenuOrderNumber = 0,
+                            Parameter = "",
+                            RootId = 3
                         });
                 });
 

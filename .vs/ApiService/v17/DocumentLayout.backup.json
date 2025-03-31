@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Github\\QueryFlow\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\views\\adminmodule\\kullanicilarindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\views\\adminmodule\\kullanicilarindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\components\\navbar\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\components\\navbar\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BEC5EC-30BC-4D8C-9B98-B8774F0EC99A}|WebApi\\WebApi.csproj|d:\\github\\queryflow\\webapi\\controllers\\adminmodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BEC5EC-30BC-4D8C-9B98-B8774F0EC99A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\adminmodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BEC5EC-30BC-4D8C-9B98-B8774F0EC99A}|WebApi\\WebApi.csproj|d:\\github\\queryflow\\webapi\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BEC5EC-30BC-4D8C-9B98-B8774F0EC99A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T17:19:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KullanicilarIndex.cshtml",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T17:18:21.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:18:07.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\WebApi\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\MenusController.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\WebApi\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\MenusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:15:21.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "27305d81-25fa-4134-ad23-19d8055717b0",
+        "Display": 1,
+        "X": 342,
+        "Y": 423,
+        "Width": 1426,
+        "Height": 727,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "NavbarViewComponent.cs",
               "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
               "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
               "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
               "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:49:51.661Z",
+              "WhenOpened": "2025-03-31T17:14:44.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4b98e61e-91cc-4426-9df8-8fbbfd1003b4",
+        "Display": 2,
+        "X": -5,
+        "Y": 295,
+        "Width": 1426,
+        "Height": 727,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminModulesController.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\WebApi\\Controllers\\AdminModulesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AdminModulesController.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\WebApi\\Controllers\\AdminModulesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AdminModulesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:15:17.715Z",
               "EditorCaption": ""
             }
           ]

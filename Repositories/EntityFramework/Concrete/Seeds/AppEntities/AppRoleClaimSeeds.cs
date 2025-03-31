@@ -52,7 +52,47 @@ namespace Repositories.EntityFramework.Concrete.Seeds.AppEntities
                     RoleId = 1,
 
                 }
+                ,   new AppRoleClaim
+                {
+                    Id = 4,
+                    IsActive = true,
+                    CreatedDate = DateTime.UtcNow,
+                    ModifiedDate = DateTime.UtcNow,
+                    CreatedUserId = null,
+                    CreatedUserName = "SeedData",
+                    ModifiedUserId  = null,
+                    ModifiedUserName = "SeedData",
+                    ClaimId = 4,
+                    RoleId = 1,
 
+                }
+                ,   new AppRoleClaim
+                {
+                    Id = 5,
+                    IsActive = true,
+                    CreatedDate = DateTime.UtcNow,
+                    ModifiedDate = DateTime.UtcNow,
+                    CreatedUserId = null,
+                    CreatedUserName = "SeedData",
+                    ModifiedUserId  = null,
+                    ModifiedUserName = "SeedData",
+                    ClaimId = 5,
+                    RoleId = 1,
+
+                }
+                ,new AppRoleClaim
+                {
+                    Id = 6,
+                    IsActive = true,
+                    CreatedDate = DateTime.UtcNow,
+                    ModifiedDate = DateTime.UtcNow,
+                    CreatedUserId = null,
+                    CreatedUserName = "SeedData",
+                    ModifiedUserId  = null,
+                    ModifiedUserName = "SeedData",
+                    ClaimId = 6,
+                    RoleId = 1,
+                }
 
             };
 
