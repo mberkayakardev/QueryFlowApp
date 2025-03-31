@@ -1,0 +1,43 @@
+﻿@model List<ListAppMVCMenusDto>
+
+
+@foreach (var item in Model)
+{ 
+    <li class="nav-item">
+        @if (!string.IsNullOrEmpty(item.ControllerName) && !string.IsNullOrEmpty(item.ActionName))
+        {
+            <a asp-area="@(string.IsNullOrEmpty(item.AreaName) ? null : item.AreaName)"
+               asp-controller="@item.ControllerName"
+               asp-action="@item.ActionName"
+               class="nav-link">
+                <i class="nav-icon bi bi-circle-fill"></i>
+                <p>
+                    @item.MenuName
+                    @if (item.ChildMenus != null && item.ChildMenus.Any())
+                    {
+                        <i class="nav-arrow bi bi-chevron-right"></i>
+                    }
+                </p>
+            </a>
+        }
+        else
+        {
+            <a href="#" class="nav-link">
+                <i class="nav-icon bi bi-circle-fill"></i>
+                <p>
+                    @item.MenuName
+                    @if (item.ChildMenus != null && item.ChildMenus.Any())
+                    {
+                        <i class="nav-arrow bi bi-chevron-right"></i>
+                    }
+                </p>
+            </a>
+        }
+        @if (item.ChildMenus != null && item.ChildMenus.Any())
+        {
+            <ul class="nav nav-treeview">
+                @Html.Partial("_MenuPartial", item.ChildMenus)
+            </ul>
+        }
+    </li>
+}

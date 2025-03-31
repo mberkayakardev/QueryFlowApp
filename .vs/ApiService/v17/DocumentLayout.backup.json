@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\QueryFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\components\\navbar\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\components\\navbar\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavbarViewComponent.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
+              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
+              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:49:51.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

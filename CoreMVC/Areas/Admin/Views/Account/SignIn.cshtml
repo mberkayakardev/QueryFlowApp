@@ -1,0 +1,50 @@
+﻿@{
+    Layout = "_LoginLayout";
+}
+@model LoginDto
+<div class="login-box">
+    <div class="card card-outline card-primary">
+        <div class="card-header">
+            <a href="https://github.com/mberkayakardev/QueryFlow"
+               class="link-dark text-center link-offset-2 link-opacity-100 link-opacity-50-hover">
+                <h1 class="mb-0"><b>Query</b>Flow</h1>
+            </a>
+        </div>
+        <div class="card-body login-card-body">
+            <div asp-validation-summary="All" class="text-danger" ></div>
+            <form  asp-action="SignIn" asp-controller="Account" asp-area="Admin"  method="post">
+                <div class="input-group mb-1">
+                    <div class="form-floating">
+                        <input id="loginEmail" type="text" class="form-control" asp-for="@Model.Email" placeholder="" />
+                        <label for="loginEmail" asp-for="@Model.Email">Kullanıcı Adı veya Email</label>
+                    </div>
+                    <div class="input-group-text"><span class="bi bi-envelope"></span></div>
+                </div>
+                <div class="input-group mb-1">
+                    <div class="form-floating">
+                        <input id="loginPassword" type="password" asp-for="@Model.Password" class="form-control" placeholder="" />
+                        <label for="loginPassword" asp-for="@Model.Password">Şifre</label>
+                    </div>
+                    <div class="input-group-text"><span class="bi bi-lock-fill"></span></div>
+                </div>
+                <!--begin::Row-->
+
+                <div class="row mb-2 mt-2">
+                    <div class="col-12">
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary ">Giriş Yap</button>
+                        </div>
+                    </div>
+                </div>
+                <!--end::Row-->
+            </form>
+
+            <!-- /.social-auth-links -->
+            <p class="mb-1"><a href="forgot-password.html">Şifremi Unuttum</a></p>
+            <p class="mb-0">
+                <a href="register.html" class="text-center">Yeni </a>
+            </p>
+        </div>
+        <!-- /.login-card-body -->
+    </div>
+</div>
