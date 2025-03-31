@@ -1,4 +1,6 @@
-﻿using AutoMapper;
+﻿using ApiService.Entities.Concrete.AppEntities;
+using AutoMapper;
+using Dtos.Concrete.AppUserDtos;
 
 namespace QuizApp.Services.Concrete.MappingProfiles.AppUserMappings
 {
@@ -6,7 +8,7 @@ namespace QuizApp.Services.Concrete.MappingProfiles.AppUserMappings
     {
         public AppUserMapping()
         {
-            //CreateMap<AppUser, CreateAppUserDto>().ReverseMap();
+            CreateMap<AppUser, ListAppUserDtos>().ReverseMap();
         }
     }
 }

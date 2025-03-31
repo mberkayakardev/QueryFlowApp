@@ -1,0 +1,46 @@
+﻿@model List<ListAppUserDtos>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Kullanıcı Adı</th>
+                <th>Ad Soyad</th>
+                <th>Email</th>
+                <th>Email Onaylı mı</th>
+                <th>Aktif mi?</th>
+                <th>Engellenmiş mi?</th>
+                <th>Hatalı Giriş</th>
+                <th>Oluşturma Tarihi</th>
+                <th>Oluşturan</th>
+                <th>Güncelleme Tarihi</th>
+                <th>Güncelleyen</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.UserName</td>
+                    <td>@item.UserFullName</td>
+                    <td>@item.UserEmail</td>
+                    <td>@(item.EmailConfirmed ? "Evet" : "Hayır")</td>
+                    <td>@(item.IsActive ? "Aktif" : "Pasif")</td>
+                    <td>@(item.IsBlocked ? "Evet" : "Hayır")</td>
+                    <td>@item.FalseEntryCount</td>
+                    <td>@item.CreatedDate?.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>@item.CreatedUserName</td>
+                    <td>@item.ModifiedDate?.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>@item.ModifiedUserName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Kullanıcı bulunamadı.</p>
+}

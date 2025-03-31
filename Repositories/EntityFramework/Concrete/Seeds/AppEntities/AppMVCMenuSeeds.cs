@@ -58,7 +58,56 @@ namespace Repositories.EntityFramework.Concrete.Seeds.AppEntities
                     AppClaimId = 3
 
 
+                },
+                      new AppMVCMenus
+                {
+                    Id = 3,
+                    IsActive = true,
+                    CreatedDate = DateTime.Now,
+                    ModifiedDate = DateTime.Now,
+                    CreatedUserId = null,
+                    CreatedUserName = "Seed Data",
+                    ModifiedUserId = null,
+                    RootId = null,
+                    MenuOrderNumber = 0,
+                    AppApplicationTypeId = 1,
+                    AreaName = "",
+                    ControllerName = "",
+                    ActionName = "",
+                    Parameter = "",
+                    MenuIcon = "nav-icon fas fa-copy",
+                    IsNewTab = false,
+                    MenuDescription ="Admin Modül Root menü",
+                    MenuName ="Admin Modül",
+                    AppClaimId = 4
+
+
+                },
+                      new AppMVCMenus
+                {
+                    Id = 4,
+                    IsActive = true,
+                    CreatedDate = DateTime.Now,
+                    ModifiedDate = DateTime.Now,
+                    CreatedUserId = null,
+                    CreatedUserName = "Seed Data",
+                    ModifiedUserId = null,
+                    RootId = 3,
+                    MenuOrderNumber = 0,
+                    AppApplicationTypeId = 1,
+                    AreaName = "",
+                    ControllerName = "",
+                    ActionName = "",
+                    Parameter = "",
+                    MenuIcon = "nav-icon fas fa-copy",
+                    IsNewTab = false,
+                    MenuDescription ="Kullanıcılar",
+                    MenuName ="Kullanıcı",
+                    AppClaimId = 5
+
+
                 }
+                  
 
 
             };

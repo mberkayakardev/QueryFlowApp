@@ -27,6 +27,12 @@
         }
 
 
+        public static class AdminModule
+        {
+            public const string NotFoundUsers = "Herhangi bir kullanıcı bulunamadı";
+        }
+
+
 
     }
 }
