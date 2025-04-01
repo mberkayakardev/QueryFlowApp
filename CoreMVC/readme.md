@@ -33,15 +33,11 @@
 <!-- ABOUT THE PROJECT -->
 <h2 id="Proje-Hakkinda"> Proje Hakkında </h2>
 
-<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/1.png">
-<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/2.png">
-<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/3.png">
+<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/1.png"/>
+<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/2.png"/>
+<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/3.png"/>
  
-
- 
-
-
-
+   
 * Ön yüz olarak MVC ve VUE (şimdilik sadece mvc ) kullanılarak bir front end simüle edilmiş olup arka planda .net Core Web apiden beslenen sınav veya anketlerin oluşturulduğu, anketlerin kullanıcılara atandığı ve onaycı mekanizması ile üst onaycılara sınavların onaylatıldığı bir proje yazıldı.  
 
 <p align="right">(<a href="#readme-top">başa dön</a>)</p>
