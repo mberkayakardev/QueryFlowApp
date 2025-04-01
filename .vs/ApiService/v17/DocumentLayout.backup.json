@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Github\\QueryFlowNew\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|D:\\Github\\QueryFlowNew\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -43,6 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Github\\QueryFlowNew\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T18:56:11.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\readme.md",
+              "RelativeDocumentMoniker": "CoreMVC\\readme.md",
+              "ToolTip": "D:\\Github\\QueryFlowNew\\CoreMVC\\readme.md",
+              "RelativeToolTip": "CoreMVC\\readme.md",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-01T18:52:29.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AdminModuleController.cs",
               "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
               "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
@@ -54,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -67,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "KullanicilarIndex.cshtml",
               "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
               "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
@@ -79,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
@@ -91,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MenusController.cs",
               "DocumentMoniker": "D:\\Github\\QueryFlowNew\\WebApi\\Controllers\\MenusController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\MenusController.cs",
@@ -124,7 +158,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AdminModulesController.cs",
               "DocumentMoniker": "D:\\Github\\QueryFlowNew\\WebApi\\Controllers\\AdminModulesController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\AdminModulesController.cs",
@@ -158,7 +192,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "NavbarViewComponent.cs",
               "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
               "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",

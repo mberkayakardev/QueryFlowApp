@@ -33,12 +33,9 @@
 <!-- ABOUT THE PROJECT -->
 <h2 id="Proje-Hakkinda"> Proje Hakkında </h2>
 
-<!-- <img src ="https://raw.githubusercontent.com/mberkayakardev/Study_Case/refs/heads/master/Resimler/1.png" >
-<img src ="https://raw.githubusercontent.com/mberkayakardev/Study_Case/refs/heads/master/Resimler/2.png" >
-<img src ="https://raw.githubusercontent.com/mberkayakardev/Study_Case/refs/heads/master/Resimler/3.png" >
-<img src ="https://raw.githubusercontent.com/mberkayakardev/Study_Case/refs/heads/master/Resimler/4.png" >
-<img src ="https://raw.githubusercontent.com/mberkayakardev/Study_Case/refs/heads/master/Resimler/5.png" >
-<img src ="https://raw.githubusercontent.com/mberkayakardev/Study_Case/refs/heads/master/Resimler/6.png" > -->
+<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/1.png" >
+<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/2.png" >
+<img src ="https://raw.githubusercontent.com/mberkayakardev/QueryFlowApp/refs/heads/master/CoreMVC/Resimler/3.png" >
 
  
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\QueryFlowNew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|D:\\Github\\QueryFlowNew\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|D:\\Github\\QueryFlowNew\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|D:\\Github\\QueryFlowNew\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "D:\\Github\\QueryFlowNew\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-01T18:59:22.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\Github\\QueryFlowNew\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -59,19 +72,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-01T18:56:11.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "readme.md",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\readme.md",
-              "RelativeDocumentMoniker": "CoreMVC\\readme.md",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\CoreMVC\\readme.md",
-              "RelativeToolTip": "CoreMVC\\readme.md",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACUAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-01T18:52:29.612Z",
               "EditorCaption": ""
             },
             {
