@@ -74,3 +74,16 @@ D:\Github\QueryFlow\Core\obj\Debug\net9.0\Core.dll
 D:\Github\QueryFlow\Core\obj\Debug\net9.0\refint\Core.dll
 D:\Github\QueryFlow\Core\obj\Debug\net9.0\Core.pdb
 D:\Github\QueryFlow\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Github\QueryFlowNew\Core\bin\Debug\net9.0\Core.deps.json
+D:\Github\QueryFlowNew\Core\bin\Debug\net9.0\Core.dll
+D:\Github\QueryFlowNew\Core\bin\Debug\net9.0\Core.pdb
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\Core.sourcelink.json
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\Core.dll
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\Core.pdb
+D:\Github\QueryFlowNew\Core\obj\Debug\net9.0\ref\Core.dll

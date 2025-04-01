@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj": {}
+    "D:\\Github\\QueryFlowNew\\Dtos\\Dtos.csproj": {}
   },
   "projects": {
-    "D:\\Github\\QueryFlow\\Core\\Core.csproj": {
+    "D:\\Github\\QueryFlowNew\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\QueryFlow\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Github\\QueryFlowNew\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Github\\QueryFlow\\Core\\Core.csproj",
+        "projectPath": "D:\\Github\\QueryFlowNew\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\QueryFlow\\Core\\obj\\",
+        "outputPath": "D:\\Github\\QueryFlowNew\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,14 +100,14 @@
         }
       }
     },
-    "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj": {
+    "D:\\Github\\QueryFlowNew\\Dtos\\Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj",
+        "projectUniqueName": "D:\\Github\\QueryFlowNew\\Dtos\\Dtos.csproj",
         "projectName": "Dtos",
-        "projectPath": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj",
+        "projectPath": "D:\\Github\\QueryFlowNew\\Dtos\\Dtos.csproj",
         "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\QueryFlow\\Dtos\\obj\\",
+        "outputPath": "D:\\Github\\QueryFlowNew\\Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -129,8 +129,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Github\\QueryFlow\\Core\\Core.csproj": {
-                "projectPath": "D:\\Github\\QueryFlow\\Core\\Core.csproj"
+              "D:\\Github\\QueryFlowNew\\Core\\Core.csproj": {
+                "projectPath": "D:\\Github\\QueryFlowNew\\Core\\Core.csproj"
               }
             }
           }

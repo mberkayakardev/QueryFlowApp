@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\QueryFlow\\Repositories\\Repositories.csproj": {}
+    "D:\\Github\\QueryFlowNew\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "D:\\Github\\QueryFlow\\Core\\Core.csproj": {
+    "D:\\Github\\QueryFlowNew\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\QueryFlow\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Github\\QueryFlowNew\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Github\\QueryFlow\\Core\\Core.csproj",
+        "projectPath": "D:\\Github\\QueryFlowNew\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\QueryFlow\\Core\\obj\\",
+        "outputPath": "D:\\Github\\QueryFlowNew\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,14 +100,14 @@
         }
       }
     },
-    "D:\\Github\\QueryFlow\\Entities\\Entities.csproj": {
+    "D:\\Github\\QueryFlowNew\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\QueryFlow\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Github\\QueryFlowNew\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Github\\QueryFlow\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Github\\QueryFlowNew\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\QueryFlow\\Entities\\obj\\",
+        "outputPath": "D:\\Github\\QueryFlowNew\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -129,8 +129,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Github\\QueryFlow\\Core\\Core.csproj": {
-                "projectPath": "D:\\Github\\QueryFlow\\Core\\Core.csproj"
+              "D:\\Github\\QueryFlowNew\\Core\\Core.csproj": {
+                "projectPath": "D:\\Github\\QueryFlowNew\\Core\\Core.csproj"
               }
             }
           }
@@ -176,14 +176,14 @@
         }
       }
     },
-    "D:\\Github\\QueryFlow\\Repositories\\Repositories.csproj": {
+    "D:\\Github\\QueryFlowNew\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\QueryFlow\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\Github\\QueryFlowNew\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\Github\\QueryFlow\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\Github\\QueryFlowNew\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\QueryFlow\\Repositories\\obj\\",
+        "outputPath": "D:\\Github\\QueryFlowNew\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -205,8 +205,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Github\\QueryFlow\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Github\\QueryFlow\\Entities\\Entities.csproj"
+              "D:\\Github\\QueryFlowNew\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Github\\QueryFlowNew\\Entities\\Entities.csproj"
               }
             }
           }
