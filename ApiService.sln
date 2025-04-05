@@ -23,6 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMVC", "CoreMVC\CoreMVC.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B656CAA7-D010-4DA0-A6A7-1503D31793DA}"
 	ProjectSection(SolutionItems) = preProject
+		C:\Users\mberk\OneDrive\Masaüstü\Publisher\ResumePageNetCoreMVC\.gitattributes = C:\Users\mberk\OneDrive\Masaüstü\Publisher\ResumePageNetCoreMVC\.gitattributes
 		.gitignore = .gitignore
 		CoreMVC\readme.md = CoreMVC\readme.md
 		readme.md = readme.md

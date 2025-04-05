@@ -23,6 +23,7 @@
           href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
           integrity="sha256-9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI="
           crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.jqueryui.min.css" />
     <link rel="stylesheet" href="~/Temalar/AdminLte/AdminLTE-4.0.0-beta3/dist/css/adminlte.css" />
 
     @RenderSection("styles", false)
@@ -193,10 +194,10 @@
         <aside class="app-sidebar bg-body-secondary shadow" data-bs-theme="dark">
             <div class="sidebar-brand">
                 <a href="../index.html" class="brand-link">
-                    <img src="~/Temalar/AdminLte/AdminLTE-4.0.0-beta3/dist/assets/img/AdminLTELogo.png"
+                    <img src="~/Temalar/AdminLte/AdminLTE-4.0.0-beta3/dist/assets/img/AdminLTELogo.png" style="border-radius:50px"
                          alt="AdminLTE Logo"
                          class="brand-image opacity-75 shadow" />
-                    <span class="brand-text fw-light">AdminLTE 4</span>
+                    <span class="brand-text fw-light">QueryFlow</span>
                 </a>
             </div>
             <div class="sidebar-wrapper">
@@ -214,7 +215,7 @@
             <div class="app-content-header">
                 <div class="container-fluid">
                     <div class="row">
-                        <div class="col-sm-6"><h3 class="mb-0">Sidebar Mini</h3></div>
+                        <div class="col-sm-6"><h3 class="mb-0"></h3></div> <!-- Buraya ileride hata mesajları basılacak -->
                         <div class="col-sm-6">
                             <ol class="breadcrumb float-sm-end">
                                 <li class="breadcrumb-item"><a href="#">Home</a></li>
@@ -229,30 +230,6 @@
                     <div class="row">
                         <div class="col-12">
                             @RenderBody()
-                            <div class="card">
-                                <div class="card-header">
-                                    <h3 class="card-title">Title</h3>
-                                    <div class="card-tools">
-                                        <button type="button"
-                                                class="btn btn-tool"
-                                                data-lte-toggle="card-collapse"
-                                                title="Collapse">
-                                            <i data-lte-icon="expand" class="bi bi-plus-lg"></i>
-                                            <i data-lte-icon="collapse" class="bi bi-dash-lg"></i>
-                                        </button>
-                                        <button type="button"
-                                                class="btn btn-tool"
-                                                data-lte-toggle="card-remove"
-                                                title="Remove">
-                                            <i class="bi bi-x-lg"></i>
-                                        </button>
-                                    </div>
-                                </div>
-                                <div class="card-body">Start creating your amazing application!</div>
-                                <!-- /.card-body -->
-                                <div class="card-footer">Footer</div>
-                                <!-- /.card-footer-->
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -279,6 +256,8 @@
             integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
             crossorigin="anonymous"></script>
     <script src="~/Temalar/AdminLte/AdminLTE-4.0.0-beta3/dist/js/adminlte.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+
     <script>
         const SELECTOR_SIDEBAR_WRAPPER = '.sidebar-wrapper';
         const Default = {
@@ -299,7 +278,8 @@
           }
         });
     </script>
-
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.min.js"></script>
     @RenderSection("scripts", false)
 </body>
 </html>

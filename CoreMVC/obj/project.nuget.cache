@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "exlWXGOYRs0=",
+  "dgSpecHash": "ZVW3M+pPps0=",
   "success": true,
-  "projectFilePath": "D:\\Github\\QueryFlowNew\\CoreMVC\\CoreMVC.csproj",
+  "projectFilePath": "D:\\Github\\QueryFlow\\CoreMVC\\CoreMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mberk\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\mberk\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

@@ -1470,8 +1470,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5xpa8ektv0</Fingerprint>
-      <Integrity>uSHDQ4Rtli0E2sYzmikeN1+J4tJuifs97R966DD21FY=</Integrity>
+      <Fingerprint>vu12hegaye</Fingerprint>
+      <Integrity>GWEcrglGMADmJz8xYicJ1vg2FD8kI6Y5kullGHgwYrU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Temalar\AdminLte\AdminLTE-4.0.0-beta3\dist\assets\img\AdminLTELogo.png'))</OriginalItemSpec>

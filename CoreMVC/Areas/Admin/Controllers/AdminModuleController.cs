@@ -38,5 +38,18 @@ namespace CoreMVC.Areas.Admin.Controllers
 
             return View(response.Item2.Data);
         }
+        [Authorize(Roles = "Admin.AdminModule.Kullanicilar.Edit")]
+        public async Task<IActionResult> KullanicilarIndex(int Id)
+        {
+            var response = await _httpClient.CostumeGetAsync<List<ListAppUserDtos>>($"{_Config.BaseUrl}/AdminModules/Kullanicilar", _toastNotification);
+            if (response.Item1.StatusCode == HttpStatusCode.BadRequest)
+            {
+                _toastNotification.AddErrorToastMessage("Bir Hata oluştu : " + (response.Item2.Messages));
+                return View();
+            }
+
+
+            return View(response.Item2.Data);
+        }
     }
 }

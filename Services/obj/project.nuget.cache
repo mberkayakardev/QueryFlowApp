@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gQgOj8CZl4s=",
+  "dgSpecHash": "nUPsjfbRzPg=",
   "success": true,
-  "projectFilePath": "D:\\Github\\QueryFlowNew\\Services\\Services.csproj",
+  "projectFilePath": "D:\\Github\\QueryFlow\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mberk\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mberk\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
