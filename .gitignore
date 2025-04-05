@@ -35,6 +35,8 @@ dist/** linguist-vendored
 # C# dosyaları net şekilde belirt
 **/*.cs linguist-language=C#
 
+*.astro linguist-vendored
+
 Udemy.AdvertisementApp.UI/wwwroot/** linguist-vendored
 
 
