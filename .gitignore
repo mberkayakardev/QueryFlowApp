@@ -22,6 +22,12 @@ packages/
 # wwwroot klasörünü dil analizine dahil etme (statik dosyalar)
 wwwroot/** linguist-vendored
 
+
+
+*.astro linguist-vendored
+
+Udemy.AdvertisementApp.UI/wwwroot/** linguist-vendored
+
 # node_modules klasörünü dışla (varsa)
 node_modules/** linguist-vendored
 
@@ -34,10 +40,6 @@ dist/** linguist-vendored
 
 # C# dosyaları net şekilde belirt
 **/*.cs linguist-language=C#
-
-*.astro linguist-vendored
-
-Udemy.AdvertisementApp.UI/wwwroot/** linguist-vendored
 
 
 # JSON, config dosyaları dilden sayılmaz
