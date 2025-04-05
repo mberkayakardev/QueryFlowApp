@@ -82,10 +82,24 @@ namespace Repositories.EntityFramework.Concrete.Seeds.AppEntities
                     ClaimDescription = "Admin yönetimi Kullanici Görüntüleme"}
 
             };
+            new AppClaim
+            {
+                Id = 7,
+                IsActive = true,
+                CreatedDate = DateTime.UtcNow,
+                ModifiedDate = DateTime.UtcNow,
+                CreatedUserId = null,
+                CreatedUserName = "SeedData",
+                ModifiedUserId = null,
+                ModifiedUserName = "SeedData",
+                ClaimName = "Admin.AdminModule.Kullanicilar.Edit",
+                ClaimDescription = "Admin yönetimi Kullanici güncelleme yetkisi"
+
+            };
 
 
 
-            builder.HasData(AppClaimList);
+        builder.HasData(AppClaimList);
         }
-    }
+}
 }

@@ -2,7 +2,7 @@
 
 @if (Model != null && Model.Count > 0)
 {
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped" id="MyTable">
         <thead>
             <tr>
                 <th>Id</th>
@@ -17,6 +17,7 @@
                 <th>Oluşturan</th>
                 <th>Güncelleme Tarihi</th>
                 <th>Güncelleyen</th>
+                <th>Aksiyon</th>
             </tr>
         </thead>
         <tbody>
@@ -35,6 +36,9 @@
                     <td>@item.CreatedUserName</td>
                     <td>@item.ModifiedDate?.ToString("dd.MM.yyyy HH:mm")</td>
                     <td>@item.ModifiedUserName</td>
+                    <td>
+                        <a class="btn btn-success"> Güncelle </a>
+                    </td>
                 </tr>
             }
         </tbody>
@@ -43,4 +47,12 @@
 else
 {
     <p>Kullanıcı bulunamadı.</p>
+}
+
+
+@section Scripts {
+    <script>
+        new DataTable('#MyTable');
+
+    </script>
 }

@@ -1,42 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\QueryFlowNew\\",
+  "WorkspaceRootPath": "D:\\Github\\QueryFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|D:\\Github\\QueryFlowNew\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|C:\\Users\\mberk\\OneDrive\\Masa\u00FCst\u00FC\\Publisher\\ResumePageNetCoreMVC\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|D:\\Github\\QueryFlowNew\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflow\\dtos\\concrete\\appuserdtos\\appusercreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appuserdtos\\appusercreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflow\\dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\areas\\admin\\controllers\\adminmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflow\\dtos\\concrete\\appuserdtos\\updateappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appuserdtos\\updateappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|d:\\github\\queryflow\\repositories\\entityframework\\concrete\\seeds\\appentities\\approleclaimseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entityframework\\concrete\\seeds\\appentities\\approleclaimseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflow\\dtos\\concrete\\appclaimdtos\\listapproledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appclaimdtos\\listapproledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D177D3B4-21E6-4830-97FA-1C634A783AF0}|Core\\Core.csproj|d:\\github\\queryflow\\core\\entities\\concrete\\appentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D177D3B4-21E6-4830-97FA-1C634A783AF0}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\appentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|d:\\github\\queryflow\\repositories\\entityframework\\concrete\\seeds\\appentities\\appclaimsseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entityframework\\concrete\\seeds\\appentities\\appclaimsseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\controllers\\adminmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\controllers\\adminmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\areas\\admin\\views\\adminmodule\\kullanicilarindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\views\\adminmodule\\kullanicilarindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\views\\adminmodule\\kullanicilarindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflownew\\coremvc\\areas\\admin\\components\\navbar\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\components\\navbar\\navbarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03BEC5EC-30BC-4D8C-9B98-B8774F0EC99A}|WebApi\\WebApi.csproj|d:\\github\\queryflownew\\webapi\\controllers\\adminmodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03BEC5EC-30BC-4D8C-9B98-B8774F0EC99A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\adminmodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03BEC5EC-30BC-4D8C-9B98-B8774F0EC99A}|WebApi\\WebApi.csproj|d:\\github\\queryflownew\\webapi\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03BEC5EC-30BC-4D8C-9B98-B8774F0EC99A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,89 +54,111 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "readme.md",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\readme.md",
-              "RelativeDocumentMoniker": "readme.md",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\readme.md",
-              "RelativeToolTip": "readme.md",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-01T18:59:22.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\mberk\\OneDrive\\Masa\u00FCst\u00FC\\Publisher\\ResumePageNetCoreMVC\\.gitattributes",
+              "ToolTip": "C:\\Users\\mberk\\OneDrive\\Masa\u00FCst\u00FC\\Publisher\\ResumePageNetCoreMVC\\.gitattributes",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-01T18:56:11.923Z",
+              "WhenOpened": "2025-04-05T21:49:18.393Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminModuleController.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
-              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
-              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:24:23.055Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "Title": "Dtos.csproj",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj",
+              "RelativeDocumentMoniker": "Dtos\\Dtos.csproj",
+              "ToolTip": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj",
+              "RelativeToolTip": "Dtos\\Dtos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T17:32:00.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUserCreateDtos.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
+              "RelativeDocumentMoniker": "Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
+              "RelativeToolTip": "Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T17:19:40.54Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:48:56.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "KullanicilarIndex.cshtml",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
-              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
-              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T17:18:21.738Z"
+              "DocumentIndex": 5,
+              "Title": "ListAppRoleDtos.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
+              "RelativeDocumentMoniker": "Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
+              "RelativeToolTip": "Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:48:01.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:18:07.908Z"
+              "WhenOpened": "2025-04-04T20:46:53.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateAppUserDto.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
+              "RelativeToolTip": "Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:46:32.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppRoleClaimSeeds.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
+              "RelativeToolTip": "Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwGkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:44:07.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MenusController.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\WebApi\\Controllers\\MenusController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\MenusController.cs",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\WebApi\\Controllers\\MenusController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\MenusController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Title": "AdminModuleController.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
+              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
+              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:15:21.944Z"
+              "WhenOpened": "2025-04-04T20:42:44.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KullanicilarIndex.cshtml",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T20:42:39.362Z"
             }
           ]
         }
@@ -143,12 +168,12 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "4b98e61e-91cc-4426-9df8-8fbbfd1003b4",
+        "Id": "44a5deef-11cd-457b-861f-f7fa33f125e1",
         "Display": 2,
-        "X": -5,
-        "Y": 295,
+        "X": 804,
+        "Y": -49,
         "Width": 1426,
-        "Height": 727,
+        "Height": 866,
         "WindowState": 2
       },
       "DocumentGroups": [
@@ -159,48 +184,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AdminModulesController.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\WebApi\\Controllers\\AdminModulesController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\AdminModulesController.cs",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\WebApi\\Controllers\\AdminModulesController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\AdminModulesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Title": "AppClaimsSeeds.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlow\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppClaimsSeeds.cs",
+              "RelativeDocumentMoniker": "Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppClaimsSeeds.cs",
+              "ToolTip": "D:\\Github\\QueryFlow\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppClaimsSeeds.cs",
+              "RelativeToolTip": "Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppClaimsSeeds.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:15:17.715Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "27305d81-25fa-4134-ad23-19d8055717b0",
-        "Display": 1,
-        "X": 342,
-        "Y": 423,
-        "Width": 1426,
-        "Height": 727,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NavbarViewComponent.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
-              "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
-              "ToolTip": "D:\\Github\\QueryFlowNew\\CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
-              "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Components\\Navbar\\NavbarViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:14:44.476Z",
+              "WhenOpened": "2025-04-04T20:43:21.875Z",
               "EditorCaption": ""
             }
           ]

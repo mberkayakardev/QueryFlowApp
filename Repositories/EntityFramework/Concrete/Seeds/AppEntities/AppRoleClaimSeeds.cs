@@ -93,7 +93,19 @@ namespace Repositories.EntityFramework.Concrete.Seeds.AppEntities
                     ClaimId = 6,
                     RoleId = 1,
                 }
-
+                      ,new AppRoleClaim
+                {
+                    Id = 7,
+                    IsActive = true,
+                    CreatedDate = DateTime.UtcNow,
+                    ModifiedDate = DateTime.UtcNow,
+                    CreatedUserId = null,
+                    CreatedUserName = "SeedData",
+                    ModifiedUserId  = null,
+                    ModifiedUserName = "SeedData",
+                    ClaimId = 7,
+                    RoleId = 1,
+                }
             };
 
 
