@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\QueryFlow\\CoreMVC\\CoreMVC.csproj": {}
+    "D:\\Github\\QueryFlowApp\\CoreMVC\\CoreMVC.csproj": {}
   },
   "projects": {
-    "D:\\Github\\QueryFlow\\CoreMVC\\CoreMVC.csproj": {
+    "D:\\Github\\QueryFlowApp\\CoreMVC\\CoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\QueryFlow\\CoreMVC\\CoreMVC.csproj",
+        "projectUniqueName": "D:\\Github\\QueryFlowApp\\CoreMVC\\CoreMVC.csproj",
         "projectName": "CoreMVC",
-        "projectPath": "D:\\Github\\QueryFlow\\CoreMVC\\CoreMVC.csproj",
+        "projectPath": "D:\\Github\\QueryFlowApp\\CoreMVC\\CoreMVC.csproj",
         "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\QueryFlow\\CoreMVC\\obj\\",
+        "outputPath": "D:\\Github\\QueryFlowApp\\CoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Github\\QueryFlow\\Core\\Core.csproj": {
-                "projectPath": "D:\\Github\\QueryFlow\\Core\\Core.csproj"
+              "D:\\Github\\QueryFlowApp\\Core\\Core.csproj": {
+                "projectPath": "D:\\Github\\QueryFlowApp\\Core\\Core.csproj"
               },
-              "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj": {
-                "projectPath": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj"
+              "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "D:\\Github\\QueryFlow\\Core\\Core.csproj": {
+    "D:\\Github\\QueryFlowApp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\QueryFlow\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Github\\QueryFlowApp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Github\\QueryFlow\\Core\\Core.csproj",
+        "projectPath": "D:\\Github\\QueryFlowApp\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\QueryFlow\\Core\\obj\\",
+        "outputPath": "D:\\Github\\QueryFlowApp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,14 +190,14 @@
         }
       }
     },
-    "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj": {
+    "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj",
+        "projectUniqueName": "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj",
         "projectName": "Dtos",
-        "projectPath": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj",
+        "projectPath": "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj",
         "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\QueryFlow\\Dtos\\obj\\",
+        "outputPath": "D:\\Github\\QueryFlowApp\\Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -219,8 +219,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Github\\QueryFlow\\Core\\Core.csproj": {
-                "projectPath": "D:\\Github\\QueryFlow\\Core\\Core.csproj"
+              "D:\\Github\\QueryFlowApp\\Core\\Core.csproj": {
+                "projectPath": "D:\\Github\\QueryFlowApp\\Core\\Core.csproj"
               }
             }
           }

@@ -5675,11 +5675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\QueryFlow\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\Github\\QueryFlowApp\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\Github\\QueryFlow\\Services\\Services.csproj",
+      "projectPath": "D:\\Github\\QueryFlowApp\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\QueryFlow\\Services\\obj\\",
+      "outputPath": "D:\\Github\\QueryFlowApp\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5701,11 +5701,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj": {
-              "projectPath": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj"
+            "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj": {
+              "projectPath": "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj"
             },
-            "D:\\Github\\QueryFlow\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\Github\\QueryFlow\\Repositories\\Repositories.csproj"
+            "D:\\Github\\QueryFlowApp\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\Github\\QueryFlowApp\\Repositories\\Repositories.csproj"
             }
           }
         }

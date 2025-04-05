@@ -1,41 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\QueryFlow\\",
+  "WorkspaceRootPath": "D:\\Github\\QueryFlowApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflow\\dtos\\concrete\\appuserdtos\\appusercreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appuserdtos\\appusercreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflow\\dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflow\\dtos\\concrete\\appuserdtos\\updateappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appuserdtos\\updateappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|d:\\github\\queryflow\\repositories\\entityframework\\concrete\\seeds\\appentities\\approleclaimseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entityframework\\concrete\\seeds\\appentities\\approleclaimseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflow\\dtos\\concrete\\appclaimdtos\\listapproledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appclaimdtos\\listapproledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D177D3B4-21E6-4830-97FA-1C634A783AF0}|Core\\Core.csproj|d:\\github\\queryflow\\core\\entities\\concrete\\appentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D177D3B4-21E6-4830-97FA-1C634A783AF0}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\appentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|d:\\github\\queryflow\\repositories\\entityframework\\concrete\\seeds\\appentities\\appclaimsseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entityframework\\concrete\\seeds\\appentities\\appclaimsseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\controllers\\adminmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflowapp\\coremvc\\areas\\admin\\controllers\\adminmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\controllers\\adminmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflow\\coremvc\\areas\\admin\\views\\adminmodule\\kullanicilarindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|Solution Items{B656CAA7-D010-4DA0-A6A7-1503D31793DA}|C:\\Users\\mberk\\OneDrive\\Masa\u00FCst\u00FC\\Publisher\\ResumePageNetCoreMVC\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflowapp\\dtos\\concrete\\appuserdtos\\appusercreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appuserdtos\\appusercreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflowapp\\dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflowapp\\dtos\\concrete\\appuserdtos\\updateappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appuserdtos\\updateappuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|d:\\github\\queryflowapp\\repositories\\entityframework\\concrete\\seeds\\appentities\\approleclaimseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90217214-111A-4FDC-8170-9512A93571EA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entityframework\\concrete\\seeds\\appentities\\approleclaimseeds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|d:\\github\\queryflowapp\\dtos\\concrete\\appclaimdtos\\listapproledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E340D4-3515-41F3-B9F5-B224DE05792D}|Dtos\\Dtos.csproj|solutionrelative:dtos\\concrete\\appclaimdtos\\listapproledtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D177D3B4-21E6-4830-97FA-1C634A783AF0}|Core\\Core.csproj|d:\\github\\queryflowapp\\core\\entities\\concrete\\appentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D177D3B4-21E6-4830-97FA-1C634A783AF0}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\appentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|d:\\github\\queryflowapp\\coremvc\\areas\\admin\\views\\adminmodule\\kullanicilarindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71F263BF-9DD8-4495-8996-85D3F6D5993C}|CoreMVC\\CoreMVC.csproj|solutionrelative:coremvc\\areas\\admin\\views\\adminmodule\\kullanicilarindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,54 +45,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dtos",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj",
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\mberk\\OneDrive\\Masa\u00FCst\u00FC\\Publisher\\ResumePageNetCoreMVC\\.gitattributes",
+              "ToolTip": "C:\\Users\\mberk\\OneDrive\\Masa\u00FCst\u00FC\\Publisher\\ResumePageNetCoreMVC\\.gitattributes",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-05T21:49:18.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dtos.csproj",
+              "DocumentMoniker": "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj",
               "RelativeDocumentMoniker": "Dtos\\Dtos.csproj",
-              "ToolTip": "D:\\Github\\QueryFlow\\Dtos\\Dtos.csproj",
+              "ToolTip": "D:\\Github\\QueryFlowApp\\Dtos\\Dtos.csproj",
               "RelativeToolTip": "Dtos\\Dtos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-05T17:32:00.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T17:32:00.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AppUserCreateDtos.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlowApp\\Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
               "RelativeDocumentMoniker": "Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
-              "ToolTip": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
+              "ToolTip": "D:\\Github\\QueryFlowApp\\Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
               "RelativeToolTip": "Dtos\\Concrete\\AppUserDtos\\AppUserCreateDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T20:48:56.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T20:48:56.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ListAppRoleDtos.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlowApp\\Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
               "RelativeDocumentMoniker": "Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
-              "ToolTip": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
+              "ToolTip": "D:\\Github\\QueryFlowApp\\Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
               "RelativeToolTip": "Dtos\\Concrete\\AppClaimDtos\\ListAppRoleDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T20:48:01.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T20:48:01.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlowApp\\Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
-              "ToolTip": "D:\\Github\\QueryFlow\\Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
+              "ToolTip": "D:\\Github\\QueryFlowApp\\Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
               "RelativeToolTip": "Core\\Entities\\Concrete\\AppEntities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,87 +106,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UpdateAppUserDto.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlowApp\\Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
               "RelativeDocumentMoniker": "Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
-              "ToolTip": "D:\\Github\\QueryFlow\\Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
+              "ToolTip": "D:\\Github\\QueryFlowApp\\Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
               "RelativeToolTip": "Dtos\\Concrete\\AppUserDtos\\UpdateAppUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T20:46:32.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T20:46:32.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppRoleClaimSeeds.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlowApp\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
               "RelativeDocumentMoniker": "Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
-              "ToolTip": "D:\\Github\\QueryFlow\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
+              "ToolTip": "D:\\Github\\QueryFlowApp\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
               "RelativeToolTip": "Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppRoleClaimSeeds.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAgwGkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T20:44:07.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T20:44:07.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "AdminModuleController.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
+              "DocumentMoniker": "D:\\Github\\QueryFlowApp\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
               "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
-              "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
+              "ToolTip": "D:\\Github\\QueryFlowApp\\CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
               "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Controllers\\AdminModuleController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAUwCgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T20:42:44.678Z"
+              "WhenOpened": "2025-04-04T20:42:44.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "KullanicilarIndex.cshtml",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "DocumentMoniker": "D:\\Github\\QueryFlowApp\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
               "RelativeDocumentMoniker": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
-              "ToolTip": "D:\\Github\\QueryFlow\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
+              "ToolTip": "D:\\Github\\QueryFlowApp\\CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
               "RelativeToolTip": "CoreMVC\\Areas\\Admin\\Views\\AdminModule\\KullanicilarIndex.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-04T20:42:39.362Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "44a5deef-11cd-457b-861f-f7fa33f125e1",
-        "Display": 2,
-        "X": 804,
-        "Y": -49,
-        "Width": 1426,
-        "Height": 866,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppClaimsSeeds.cs",
-              "DocumentMoniker": "D:\\Github\\QueryFlow\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppClaimsSeeds.cs",
-              "RelativeDocumentMoniker": "Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppClaimsSeeds.cs",
-              "ToolTip": "D:\\Github\\QueryFlow\\Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppClaimsSeeds.cs",
-              "RelativeToolTip": "Repositories\\EntityFramework\\Concrete\\Seeds\\AppEntities\\AppClaimsSeeds.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAcwEwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T20:43:21.875Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -6066,11 +6066,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\QueryFlow\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\Github\\QueryFlowApp\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\Github\\QueryFlow\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\Github\\QueryFlowApp\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\mberk\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\QueryFlow\\WebApi\\obj\\",
+      "outputPath": "D:\\Github\\QueryFlowApp\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6092,11 +6092,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Github\\QueryFlow\\Core\\Core.csproj": {
-              "projectPath": "D:\\Github\\QueryFlow\\Core\\Core.csproj"
+            "D:\\Github\\QueryFlowApp\\Core\\Core.csproj": {
+              "projectPath": "D:\\Github\\QueryFlowApp\\Core\\Core.csproj"
             },
-            "D:\\Github\\QueryFlow\\Services\\Services.csproj": {
-              "projectPath": "D:\\Github\\QueryFlow\\Services\\Services.csproj"
+            "D:\\Github\\QueryFlowApp\\Services\\Services.csproj": {
+              "projectPath": "D:\\Github\\QueryFlowApp\\Services\\Services.csproj"
             }
           }
         }
